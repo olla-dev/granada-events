@@ -11,4 +11,4 @@ An ap to show case Android clean architecture using :
 https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/GRANADA (c)
 
 # Code License
-Apache 2.0
+GNU GPLv3
